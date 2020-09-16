@@ -11,7 +11,6 @@ background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 
 url(img/Rectangle\ 3.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-
 }
 
 .header-nav {
@@ -20,7 +19,6 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
-
 
 .logo-name {
 padding-left: 7px;   
@@ -37,8 +35,6 @@ text-transform: uppercase;
 padding-right: 2%;
 }
 
-
-
 .nav-menu {
 display: flex;
 justify-content: center;
@@ -49,8 +45,8 @@ list-style-type: none;
 font-size: 14px;
 margin-left: 15px;
 margin-right: 15px;
-
 }
+
 .nav-menu > li > a {
  text-decoration: none;
  color: white;
@@ -60,27 +56,25 @@ margin-right: 15px;
 color: black;
 }
 
-  .localization{
-    display: flex;
-    padding-left: 5%;
-  }
-  .flag {
-    content: url(img/flag.svg);
+.localization{
+display: flex;
+padding-left: 5%;
+ }
+.flag {
+content: url(img/flag.svg);
   } 
 
 
-  .English {
-    color: #FFFFFF;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    padding-left: 11px;
-  }
-  .kurs {
+.English {
+color: #FFFFFF;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+padding-left: 11px;
+}
+.kurs {
 content: url(img/kurs.svg);
-  }
-
-
+}
 
 .login-form{
   display: inline-block;
@@ -95,32 +89,29 @@ content: url(img/kurs.svg);
   color: #FFFFFF;
   text-decoration: none;
 }
+
 .login-form:hover {
 background-color: rgb(218, 80, 80);
 animation: bounce 1s;
 }
+
 .button:hover{
   animation: bounce 1s;
 }
-
-
-
-
-  .wrapper{
+.wrapper{
     font-family: Lato;
     color:white;
     font-style: normal;
     font-weight: bold;
     text-align: center;
     padding-top: 50px;
-  }
-  .wrapper-text{
-    text-transform: uppercase;
-    font-family: Lato;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 70px;
-    
+}
+.wrapper-text{
+  text-transform: uppercase;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;  
   }
 
  .wrapper-info{
@@ -132,9 +123,6 @@ white-space: pre;
 line-height: 150%;
 
   }
-
-
-
 
 .click{
   margin-top: 39px;
@@ -155,12 +143,6 @@ line-height: 150%;
   background: #ED4C5C;
   color: white;
 }
-
-
-
-
-
-
 
   /* .inform {
     width: auto;
