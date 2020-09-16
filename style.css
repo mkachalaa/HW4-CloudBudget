@@ -1,0 +1,169 @@
+body {
+font-family: 'Lato', sans-serif;
+margin: 0;
+padding: 0;
+}
+
+.main {
+width: 100%;
+height: 100vh;
+background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%),
+url(img/Rectangle\ 3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.header-nav {
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.logo-name {
+padding-left: 7px;   
+}
+
+.logotype {
+display: flex;
+align-items: center;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+color:#FFFFFF;
+text-transform: uppercase;
+padding-right: 2%;
+}
+
+
+
+.nav-menu {
+display: flex;
+justify-content: center;
+list-style-type: none;
+}
+
+.nav-menu > li {
+font-size: 14px;
+margin-left: 15px;
+margin-right: 15px;
+
+}
+.nav-menu > li > a {
+ text-decoration: none;
+ color: white;
+}
+
+.nav-menu >li :hover {
+color: black;
+}
+
+  .localization{
+    display: flex;
+    padding-left: 5%;
+  }
+  .flag {
+    content: url(img/flag.svg);
+  } 
+
+
+  .English {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    padding-left: 11px;
+  }
+  .kurs {
+content: url(img/kurs.svg);
+  }
+
+
+
+.login-form{
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  margin-left: 20px;
+}
+.button {
+  text-transform: uppercase;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.login-form:hover {
+background-color: rgb(218, 80, 80);
+animation: bounce 1s;
+}
+.button:hover{
+  animation: bounce 1s;
+}
+
+
+
+
+  .wrapper{
+    font-family: Lato;
+    color:white;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+  }
+  .wrapper-text{
+    text-transform: uppercase;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    
+  }
+
+ .wrapper-info{
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+white-space: pre;
+line-height: 150%;
+
+  }
+
+
+
+
+.click{
+  margin-top: 39px;
+  margin-left: 40px;
+  display:inline-block;
+  vertical-align: top;
+  padding: 17px 40px;
+  background-color: #fff;
+  text-transform: uppercase;
+  color: #ED4C5C;
+  text-decoration: none;
+  border-radius: 7px;
+}
+
+.click:hover {
+
+
+  background: #ED4C5C;
+  color: white;
+}
+
+
+
+
+
+
+
+  /* .inform {
+    width: auto;
+    height: 500px;
+    background-color: aquamarine;
+    } */
