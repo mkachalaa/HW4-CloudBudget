@@ -148,17 +148,18 @@ line-height: 150%;
 
 
 .video-section {
-  max-width: 1121px;
+  max-width: 1440px;
   height: 500px;
   background-color: #FFFFFF; 
   display: flex;
+  
   }
 
 
 .video-block{
 max-width: 455px;
 max-height: 250px;
-padding: 100px 82px 50px 100px;
+padding: 100px 72px 50px 150px ;
 
 }
 
@@ -190,12 +191,12 @@ text-decoration: none;
 }
 
 .video-img {
+max-width: 510px;
+max-height: 335px;
 padding: 94px 26px 95px;
 }
 
 .video-images{
-width: 445px;
-height: 300px;
 border-radius: 15px;
 }
 
