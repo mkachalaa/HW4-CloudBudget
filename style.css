@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100vh;
   margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
   background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%),
   url(img/Rectangle\ 3.jpg);
   background-repeat: no-repeat;
@@ -100,12 +100,14 @@ body {
  
   
   .wrapper{
-      font-family: Lato;
-      color:white;
-      font-style: normal;
-      font-weight: bold;
-      text-align: center;
-      padding-top: 50px;
+  font-family: Lato;
+  color:white;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+
+  
   }
   
   .wrapper-text{
@@ -276,7 +278,7 @@ margin-right: auto;
 .feature{
   margin-left: 15px;
   margin-right: 15px;
-  max-width: 350px;
+  max-width: 349px;
   display: flow-root;
 }
 
