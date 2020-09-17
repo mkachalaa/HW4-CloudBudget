@@ -162,7 +162,7 @@ padding: 100px 82px 50px 100px;
 
 }
 
- .video-header{
+.video-header{
 font-style: normal;
 font-weight: 600;
 font-size: 36px;
@@ -181,16 +181,16 @@ color: #000000
 
 
 .video-link{
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 140%;
-  color: #ED4C5C;
-  text-decoration: none;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+color: #ED4C5C;
+text-decoration: none;
 }
 
 .video-img {
-  padding: 94px 26px 95px;
+padding: 94px 26px 95px;
 }
 
 .video-images{
@@ -206,7 +206,6 @@ height: 66px;
 position: relative;
 top:40%;
 right: 43%;
-
 }
 
 
