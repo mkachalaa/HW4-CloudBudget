@@ -11,7 +11,7 @@ height: 100vh;
 background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%),
 url(img/Rectangle\ 3.jpg);
 background-repeat: no-repeat;
-/* background-size: cover; */
+background-size: cover;
 }
 
 .header-nav {
