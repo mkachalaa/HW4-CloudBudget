@@ -98,7 +98,6 @@ body {
   }
  
   
-  
   .wrapper{
       font-family: Lato;
       color:white;
@@ -209,70 +208,67 @@ body {
   top:190px;
   right: 500px;
   }
-/* FEATURES */
 
 
  .conteiner-features{
   max-width: auto;
   max-height: 400px;
-
 }
 
-
 .heading{
-  font-style: normal;
-  font-weight: 600;
-  font-size: 36px;
-  line-height: 1.1;
-  text-align: center;
-  color: #000000;
-  margin-top: 63px;
-  margin-bottom: 76px;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+color: #000000;
+margin-top: 63px;
+margin-bottom: 76px;
 }
 
 .feature-img{
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
+width: 100%;
+height: auto;
+border-radius: 8px;
 }
 
 .feature-title{
-  font-style: normal;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 1.2;
-  text-align: center;
-  color: #101010;
-  margin-bottom: 20px;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 1.2;
+text-align: center;
+color: #101010;
+margin-bottom: 20px;
 }
 
 .feature-description{
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 1.5;
-  text-align: center;
-  color: #101010;
-  margin-bottom: 30px;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 1.5;
+text-align: center;
+color: #101010;
+margin-bottom: 30px;
 }
 
 .feature-link{
-  font-style: normal;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 1.5;
-  text-align: center;
-  color: #ED4C5C;
-  text-decoration: none;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 1.5;
+text-align: center;
+color: #ED4C5C;
+text-decoration: none;
 }
 
 .features-wrapper{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  max-width: 1121px;
-  margin-left: auto;
-  margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+max-width: 1121px;
+margin-left: auto;
+margin-right: auto;
 }
 
 .feature{
