@@ -151,9 +151,9 @@ body {
   
   .video-section {
     max-width: 1440px;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
     background-color: #FFFFFF; 
     display: flex;
     
@@ -161,9 +161,10 @@ body {
   
   
   .video-block{
-  max-width: 455px;
-  max-height: 250px;
-  padding: 100px 72px 50px 150px ;
+  max-width: 500px;
+  max-height: 100%;
+  padding: 100px 72px 50px 168px ;
+  
   
   }
   
@@ -202,6 +203,7 @@ body {
   
   .video-images{
   border-radius: 15px;
+
   }
   
   .video-play{
@@ -229,8 +231,8 @@ margin-bottom: 76px;
 }
 
 .feature-img{
-width: 100%;
-height: auto;
+width: auto;
+height: 100%;
 border-radius: 8px;
 }
 
@@ -295,6 +297,9 @@ margin-right: auto;
   top: -95px;
 }
 
+/* technology */
+
+
 .conteiner-technology{
 width: 100%;
 height: 500px;
@@ -328,6 +333,7 @@ height: 500px;
   width: 255px;
   height: 226px;
   display: flow-root;
+  z-index: 0;
   }
   
 
@@ -366,10 +372,69 @@ text-align: center;
 
 .techno-img{
 position: absolute;
-float: center;
-padding: 59px 40px 88px 57px;
-z-index: 1;
+padding: 59px 10px 55px 61px;
+}
+
+/* slider */
+
+
+.conteiner-slider{
+  background-color: #ED4C5C;
+  max-height: 500px;
+  width: 100%;
+ flex:obx
 }
 
 
+.bg-slider{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  
+}
 
+.text-slider{
+  width: 445px;
+  height: 195px;
+  padding: 122px 830px 183px 165px;
+  
+}
+
+.text-top{
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+color: #FFFFFF;
+
+}
+
+.text-bot{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  text-align: justify;
+  color: #FFFFFF;
+ 
+}
+
+
+.img-sliders{
+position: absolute;
+width: 533px;
+height: 311px;
+padding: 94px 216px 95px 691px;
+
+} */
+
+ .app-img {
+  position: absolute;
+  width: 134px;
+  height: 32px;
+  padding: 357px 0px 111px 163px;
+  content: url(contact/1.svg);
+  
+
+}
