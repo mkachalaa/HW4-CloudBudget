@@ -390,8 +390,6 @@ padding: 59px 88px 87px 87px;
   } 
 
 .text-slider{
-  width: 445px;
-  height: 195px;
   margin: 122px 830px 183px 165px;
   
 }
@@ -469,7 +467,7 @@ color: #FFFFFF;
 position: absolute;
 min-width: 592px;
 height: 50%;
-padding:127px 165px 78px 738px;
+margin:127px 165px 78px 738px;
 } 
 
 .name-select{
