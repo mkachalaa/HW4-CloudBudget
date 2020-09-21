@@ -381,7 +381,6 @@ padding: 59px 88px 87px 87px;
  
 }
 
-
 .img-sliders{
   position: absolute;
   width: 533px;
@@ -390,7 +389,9 @@ padding: 59px 88px 87px 87px;
   } 
 
 .text-slider{
-  margin: 122px 830px 183px 165px;
+  margin: 122px 670px 183px 165px;
+  width: 445px;
+  height: 195px;
   
 }
 .text-top{
